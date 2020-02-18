@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name = "app_name"> Mi aplicación Momo </string>
+    <string name = "textview"> TextView </string>
+    <string name = "welcome_to"> Bienvenido a </string>
+    <string name = "welcome_to_mt_8848_mo_mo_s_hut"> Bienvenido a Mt.8848 Mo: Mo\'s Hut </string>
+    <string name = "types_of_momo"> Tipos de Momo </string>
+    <string name = "list"> Lista </string>
+    <string name = "in_cart"> En el carrito </string>
+    <string name = "steam_mo_mo"> Vapor Mo: Mo </string>
+    <string name = "fried_mo_mo"> Frito Mo: Mo </string>
+    <string name = "my_favourite"> Mi favorito </string>
+    <string name = "my_cart"> Mi carrito </string>
+    <string name = "delete"> Eliminar </string>
+    <string name = "home"> Inicio </string>
+    <string name="name_of_momo">Nombre de MoMo</string>
+    <string name="price_10_per_plate">Precio:10 por plato</string>
+    <string name="_10_piece">10 piezas</string>
+    <string name="descripcion_de_momo">Descripcion de MOMO</string>
+    <string name="add_to_cart">Añadir a carrito </string>
+    <string name="cancel">Cancelar</string>
+</resources>

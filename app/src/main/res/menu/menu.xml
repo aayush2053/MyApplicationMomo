@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/idFavourite"
+        android:title="@string/my_favourite" />
+    <item
+        android:id="@+id/idCart"
+        android:title="@string/my_cart" />
+</menu>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> Mon application Momo </string>
+    <string name = "textview"> Affichage </string>
+    <string name = "welcome_to"> Bienvenue dans </string>
+    <string name = "welcome_to_mt_8848_mo_mo_s_hut"> Bienvenue à Mt.8848 Mo: Mo\'s Hut </string>
+    <string name = "types_of_momo"> Types de Momo </string>
+    <string name = "list"> Liste </string>
+    <string name = "in_cart"> Dans le panier </string>
+    <string name = "steam_mo_mo"> Vapeur Mo: Mo </string>
+    <string name = "fried_mo_mo"> Frit Mo: Mo </string>
+    <string name = "my_favourite"> Mon favori </string>
+    <string name = "my_cart"> Mon panier </string>
+    <string name = "delete"> Supprimer </string>
+    <string name = "home"> Accueil </string>
+    <string name="name_of_momo">Nom MoMo</string>
+    <string name="price_10_per_plate">Prix: 10 par assiette</string>
+    <string name="_10_piece">10 pièces</string>
+    <string name="descripcion_de_momo">Description de MOMO</string>
+    <string name="add_to_cart">Ajouter au caddie </string>
+    <string name="cancel">Annuler</string>
+
+</resources>
